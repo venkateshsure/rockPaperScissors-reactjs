@@ -1,0 +1,54 @@
+.play-again {
+  background: transparent;
+  border: none;
+  background-color: #ffffff;
+  color: #223a5f;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+}
+
+.your-image-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+}
+
+.opponent-image-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+}
+
+.your-image {
+  width: 100px;
+}
+
+.opponent-image {
+  width: 100px;
+}
+
+.game-results {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  align-items: center;
+  justify-content: center;
+}
+
+.game-results-con {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  align-items: center;
+  justify-content: center;
+}
+
+.head {
+  color: #ffffff;
+  font-family: 'Roboto';
+}

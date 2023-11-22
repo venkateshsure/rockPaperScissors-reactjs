@@ -1,0 +1,14 @@
+.li-con {
+  list-style-type: none;
+}
+
+.button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.game-card-image {
+  width: 200px;
+  height: 200px;
+}
